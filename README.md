@@ -7,13 +7,7 @@ CANTENNA scans nearby **WiFi networks** and **Bluetooth Low Energy (BLE) devices
 ---
 
 ## Photos
-
-
-```md
 ![CANTENNA](assets/628.png)
-```
-
----
 
 ## Inspiration
 
