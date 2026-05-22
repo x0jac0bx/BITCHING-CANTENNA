@@ -8,16 +8,9 @@ CANTENNA scans nearby **WiFi networks** and **Bluetooth Low Energy (BLE) devices
 
 ## Photos
 
-```text
-assets/cantenna-demo.png
-assets/antenna-probe.jpg
-assets/esp32-mount.jpg
-```
 
 ```md
-![CANTENNA Demo](assets/cantenna-demo.png)
-![Antenna Probe](assets/antenna-probe.jpg)
-![ESP32 Mount](assets/esp32-mount.jpg)
+![CANTENNA](assets/628.png
 ```
 
 ---
